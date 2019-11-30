@@ -1,0 +1,16 @@
+ Ani
+ Animal 
+ Bin
+ Building
+ Bus
+ Car
+ Graffiti
+ Human
+ Overbridge
+ Pillar
+ Text 
+ Train
+ Truck
+ Underpass
+ Wall
+ wall
