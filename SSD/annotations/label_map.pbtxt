@@ -1,0 +1,16 @@
+item {
+   name: "Car"
+   id: 1
+   display_name: "Car"
+}
+
+item {
+    name: "Graffiti"
+    id:2
+    display_name: "Graffiti"
+}
+item {
+    name: "Truck"
+    id:2
+    display_name: "Truck"
+}
