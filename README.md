@@ -14,8 +14,8 @@ This folder contains all the files needed to run the tiny yolo model.
 ### SSD
 This folder contains all the files needed to run the ssd inception v2 coco model.
 
-### Faster RCNN
+### FRCNN
 This folder contains all the files needed to run the Faster RCNN model.
 
-### ResNet
+### Resnet
 This folder contains all the files needed to run the ResNet Classification model.
